@@ -8,3 +8,5 @@ It has been modified by separating the Learning from Observation framework from 
 
 New agents and maps have benn added.
 
+This also contains the traces for agents used in work in progress paper: A Case-Based Reasoning Approach to Learning State-Based Behavior.
+The frequency, fixed sequence, and zig zag agents on the new maps that were built. 
